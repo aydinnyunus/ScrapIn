@@ -1,2 +1,2 @@
-05377672814
-trabzonsamsun
+MAIL_OR_PHONE
+PASSWORD
